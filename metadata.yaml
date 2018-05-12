@@ -1,0 +1,37 @@
+_repo: The-Compleat-Surgeon--13-or-the-whole-Art-of-Surgery-explain-d-in-a-most-familiar-Method._34157
+_version: 0.1.0
+alternative_title: La chirurgie complete. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Clerc, M. (Charles Gabriel)
+    aliases:
+    - Clerc, Charles Gabriel Le
+    - Le Clerc, Charles Gabriel
+    birthdate: 1644
+    gutenberg_agent_id: '36816'
+    url: http://www.gutenberg.org/2009/agents/36816
+description: ''
+gutenberg_issued: '2010-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Surgery -- Early works to 1800'
+- !lcc 'RD'
+summary: "Containing an exact Account of its Principles and several Parts, viz. Of\
+  \ the Bones, Muscles, Tumours, Ulcers, and Wounds simple and complicated, or those\
+  \ by Gun-shot; as also of Venereal Diseases, the Scurvy, Fractures, Luxations, and\
+  \ all sorts of Chirurgical Operations; together with their proper Bandages and Dressings.\r\
+  \n\r\nTo which is added, a Chirurgical Dispensatory; shewing the manner how to prepare\
+  \ all such Medicines as are most necessary for a Surgeon, and particularly the Mercurial\
+  \ Panacæa."
+title: "The Compleat Surgeon\r\nor, the whole Art of Surgery explain'd in a most familiar\
+  \ Method."
+url: http://www.gutenberg.org/ebooks/34157
