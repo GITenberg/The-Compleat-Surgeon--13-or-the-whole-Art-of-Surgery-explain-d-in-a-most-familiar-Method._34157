@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '36816'
     url: http://www.gutenberg.org/2009/agents/36816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34157#The-Compleat-Surgeon--13-or-the-whole-Art-of-Surgery-explain-d-in-a-most-familiar-Method.
 gutenberg_issued: '2010-10-28'
 gutenberg_type: Text
 identifiers:
